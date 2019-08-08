@@ -1,3 +1,3 @@
-> [从这里开始阅读：Git 学习笔记](https://dreamwhigh.github.io/Git-Notes/#/)
+> [从这里开始阅读：Algorithm 相关笔记](https://dreamwhigh.github.io/Algorithm/#/)
 
 
